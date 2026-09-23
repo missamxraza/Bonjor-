@@ -1,6 +1,18 @@
-BONJOR WEBSITE
+BONJOR V2
 
-1. Keep index.html, style.css, script.js and the assets folder together.
-2. Double-click index.html to preview the site on your computer.
-3. For free online hosting, create a GitHub repository and upload these files, then enable GitHub Pages.
-4. The current checkout is a demo; real payments/orders need a payment provider and backend.
+Files:
+- index.html
+- style.css
+- script.js
+- assets/
+
+GitHub update:
+1. Open your Bonjor repository.
+2. Upload/replace index.html, style.css, script.js.
+3. Upload/replace the entire assets folder.
+4. Commit changes.
+5. GitHub Pages will redeploy automatically.
+
+WhatsApp:
+Open script.js and replace WHATSAPP_NUMBER = "" with your full WhatsApp number including country code, without + or spaces.
+Example for India: 919876543210
